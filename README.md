@@ -1,4 +1,6 @@
 ## Hi there 👋
+npm run build
+# Push to GitHub and enable Pages in repository settings
 
 <!--
 **Antieqkers/antieqkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
